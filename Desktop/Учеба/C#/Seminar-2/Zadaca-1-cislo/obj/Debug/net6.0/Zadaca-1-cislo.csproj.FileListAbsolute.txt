@@ -1,0 +1,15 @@
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.csproj.AssemblyReference.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.AssemblyInfoInputs.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.AssemblyInfo.cs
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.csproj.CoreCompileInputs.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\bin\Debug\net6.0\Zadaca-1-cislo.exe
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\bin\Debug\net6.0\Zadaca-1-cislo.deps.json
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\bin\Debug\net6.0\Zadaca-1-cislo.runtimeconfig.json
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\bin\Debug\net6.0\Zadaca-1-cislo.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\bin\Debug\net6.0\Zadaca-1-cislo.pdb
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\refint\Zadaca-1-cislo.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.pdb
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\Zadaca-1-cislo.genruntimeconfig.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-1-cislo\obj\Debug\net6.0\ref\Zadaca-1-cislo.dll

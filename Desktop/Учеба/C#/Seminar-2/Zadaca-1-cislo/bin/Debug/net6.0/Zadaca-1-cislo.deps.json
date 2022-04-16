@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadaca-1-cislo/1.0.0": {
+        "runtime": {
+          "Zadaca-1-cislo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadaca-1-cislo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
