@@ -1,0 +1,15 @@
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\bin\Debug\net6.0\Zadaca-2-Random.exe
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\bin\Debug\net6.0\Zadaca-2-Random.deps.json
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\bin\Debug\net6.0\Zadaca-2-Random.runtimeconfig.json
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\bin\Debug\net6.0\Zadaca-2-Random.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\bin\Debug\net6.0\Zadaca-2-Random.pdb
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.csproj.AssemblyReference.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.AssemblyInfoInputs.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.AssemblyInfo.cs
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.csproj.CoreCompileInputs.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\refint\Zadaca-2-Random.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.pdb
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\Zadaca-2-Random.genruntimeconfig.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-2-Random\obj\Debug\net6.0\ref\Zadaca-2-Random.dll
