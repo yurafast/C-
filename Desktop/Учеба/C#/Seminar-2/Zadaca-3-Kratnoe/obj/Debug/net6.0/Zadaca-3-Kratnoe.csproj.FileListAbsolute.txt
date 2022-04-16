@@ -1,0 +1,15 @@
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\bin\Debug\net6.0\Zadaca-3-Kratnoe.exe
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\bin\Debug\net6.0\Zadaca-3-Kratnoe.deps.json
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\bin\Debug\net6.0\Zadaca-3-Kratnoe.runtimeconfig.json
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\bin\Debug\net6.0\Zadaca-3-Kratnoe.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\bin\Debug\net6.0\Zadaca-3-Kratnoe.pdb
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.csproj.AssemblyReference.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.AssemblyInfoInputs.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.AssemblyInfo.cs
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.csproj.CoreCompileInputs.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\refint\Zadaca-3-Kratnoe.dll
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.pdb
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\Zadaca-3-Kratnoe.genruntimeconfig.cache
+C:\Users\yutafast\Desktop\Учеба\C#\Seminar-2\Zadaca-3-Kratnoe\obj\Debug\net6.0\ref\Zadaca-3-Kratnoe.dll
