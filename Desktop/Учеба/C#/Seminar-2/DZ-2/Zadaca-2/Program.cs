@@ -3,7 +3,8 @@
 // 456 -> 46
 // 782 -> 72
 // 918 -> 98
-int a = 469;
-int b = a%100;
-int c = b / 10;
-Console.WriteLine(c);
+int a = 918;
+int b = a%10;
+int c = a / 100;
+Console.Write(c);
+Console.Write(b);
