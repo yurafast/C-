@@ -19,7 +19,7 @@ if (a < 100)
 
     Console.WriteLine("Третьей цифры нет");
 }
-if (a > 1000)
+if (a >= 1000)
 {
     while (a > 1000)
     {
