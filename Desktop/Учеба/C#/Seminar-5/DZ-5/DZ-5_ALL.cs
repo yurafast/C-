@@ -56,16 +56,13 @@ Printo(mas);
 
 int sum=0;
 
-for(int i=0; i< mas.Length; i++)
+for (int i = 0; i < mas.Length; i = i + 2)
 {
-    if(mas[i]%2==0)
-    {
-        sum=sum+mas[i];
-    }
+    sum = sum + mas[i];
 }
 Console.WriteLine();
 
-Console.WriteLine($"Сумма четных эллементов массива равна: {sum}");
+Console.WriteLine($"Сумма эллементов на нечетных позициях равна: {sum}");
 
 // Задача 38: Задайте массив вещественных чисел. Найдите
 //разницу между максимальным и минимальным
