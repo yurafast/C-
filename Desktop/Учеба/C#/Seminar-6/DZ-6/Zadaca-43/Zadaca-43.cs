@@ -15,14 +15,9 @@ Console.Write("Введите число k2: ");
 double k2 = double.Parse(Console.ReadLine());
 Console.WriteLine();
 
-if ((k1 / k2) == (b1 / b2))
-{
-    Console.WriteLine("Прямые совпадают");
-}
-
 if (k1 == k2)
 {
-    Console.WriteLine("Прямые параллельны");
+    Console.WriteLine("Прямые НЕ пересекаются");
 }
 else
 {
