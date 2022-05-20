@@ -7,6 +7,7 @@
 // 5 9 2 3
 // 8 4 2 4
 // 17 -> такого элемента в массиве нет
+
 int m = 4, n = 5;
 int[,] mass = new int[m, n];
 for (int i = 0; i < mass.GetLength(0); i++)
