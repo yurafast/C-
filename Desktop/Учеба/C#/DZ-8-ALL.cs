@@ -135,11 +135,15 @@ for (int i = 0; i < array.GetLength(0); i++)
     }
     Console.WriteLine();
 }
-int summ = 0;
 
 Console.WriteLine("Матрица C");
 int[,] arrayC = new int[array.GetLength(0), arrayB.GetLength(1)];
 int Sum=0;
+if (n != b)
+{
+    Console.WriteLine($"Матрицы не совместимы,т.к. {n} не равно {b}");
+    return;
+}
 for (int i = 0; i < array.GetLength(0); i++)
 {
     for (int j = 0; j < arrayB.GetLength(1); j++)
@@ -160,4 +164,3 @@ for (int i = 0; i < arrayC.GetLength(0); i++)
     }
     Console.WriteLine();
 }
-
