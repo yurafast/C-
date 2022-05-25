@@ -164,3 +164,38 @@ for (int i = 0; i < arrayC.GetLength(0); i++)
     }
     Console.WriteLine();
 }
+
+// Задача 60: Сформируйте трёхмерный массив из неповторяющихся
+// двузначных чисел. Напишите программу, которая будет построчно выводить
+// массив, добавляя индексы каждого элемента.
+int m = 3, n = 3, k = 3;
+
+int[,,] array = new int[m, n, k];
+for (int i = 0; i < array.GetLength(0); i++)
+{
+    for (int j = 0; j < array.GetLength(1); j++)
+    {
+        for (int l = 0; l < array.GetLength(2); l++)
+        {
+            array[i, j, l] = new Random().Next(1, 10);
+        }
+
+    }
+}
+
+void Print(int[,,] mass)
+{
+    for (int i = 0; i < mass.GetLength(0); i++)
+    {
+        for (int j = 0; j < mass.GetLength(1); j++)
+        {
+            for (int l = 0; l < array.GetLength(2); l++)
+            {
+                Console.WriteLine($"{mass[i, j, l]} - m:{i}, n:{j}, k:{l}");
+            }
+
+        }
+        Console.WriteLine();
+    }
+}
+Print(array);
