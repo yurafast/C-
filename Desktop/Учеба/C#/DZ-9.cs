@@ -6,17 +6,31 @@
 
 void Func(int c, int d)
 {
-    if (c < d)
+    if (c == d)
+    {
+        Console.Write(c);
         return;
-    Console.Write(c + " ");
-    c = c - 1;
-    Func(c, d);
+    }
+    
+    else if (c < d)
+    {
+        Console.Write(c + " ");
+        Func(c + 1, d);
+    }
+
+    else
+    {
+        Console.Write(c + " ");
+        Func(c - 1, d);
+    }
+
 }
 Console.Write("Введите число m: ");
 int m = int.Parse(Console.ReadLine());
 Console.Write("Введите число n : ");
 int n = int.Parse(Console.ReadLine());
 Func(m, n);
+
 
 // Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму
 // натуральных элементов в промежутке от M до N.
